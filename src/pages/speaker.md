@@ -1,7 +1,7 @@
 ---
 title: Speaker
 seo:
-  title: Terms of Service
+  title: Speakers
   description: Terms of service page
   extra:
     - name: 'og:type'
