@@ -34,7 +34,7 @@
                         {
                 "label": "Speaker",
                 "url": "/speaker",
-                "style": "primary"
+                "style": "link"
             }
         ]
     },
