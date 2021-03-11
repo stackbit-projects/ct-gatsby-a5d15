@@ -30,6 +30,11 @@
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary"
+            },
+                        {
+                "label": "Sign Up",
+                "url": "/signup",
+                "style": "primary"
             }
         ]
     },
