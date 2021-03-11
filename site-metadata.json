@@ -32,7 +32,7 @@
                 "style": "primary"
             },
                         {
-                "label": "Sign Up",
+                "label": "About",
                 "url": "/signup",
                 "style": "primary"
             }
