@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: A better way to block calls with Cisco UC.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Call Telemetry is the first Cisco UC real-time policy engine to block,
+      whitelist, alert, and more in real-time.
     actions:
       - label: Learn More
         url: /features
