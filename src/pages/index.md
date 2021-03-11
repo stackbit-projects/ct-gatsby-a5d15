@@ -14,7 +14,7 @@ sections:
         url: /features
         style: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: A new approach to call blocking.
     content: >-
       ## Lorem ipsum
 
